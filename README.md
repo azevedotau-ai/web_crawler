@@ -14,9 +14,6 @@
 ![](./example/i_l_p.png)
 
 
-Read this in other languages: [Russian](README.ru.md), [हिन्दी](README.hindi.md), [中國人](README.chinese.md)
-
-
 <div align="center">
 
 
